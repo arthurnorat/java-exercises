@@ -1,37 +1,17 @@
-# java-algorithms
+# Java Exercises
 
-Java algorithm exercises and OOP practice — built while preparing for the AWS SDE internship.
+A collection of Java exercises I wrote while learning the language, organized by topic. The exercises and their output messages are in Portuguese.
 
-## About
+## Topics
 
-This repository contains Java exercises organized by topic, written while studying for the AWS Software Development Engineer internship selection process. The focus is on core Java syntax, Object-Oriented Programming, and algorithm fundamentals.
+| Package | Content |
+|---|---|
+| [`fundamentals`](src/fundamentals) | Input and output with `Scanner`, operators and sequential calculations |
+| [`conditionals`](src/conditionals) | `if`/`else`, the ternary operator and classification problems |
+| [`loops`](src/loops) | `for`, `while` and `do-while` |
+| [`arrays`](src/arrays) | Working with arrays |
+| [`oop`](src/oop) | Classes, constructors, encapsulation and `static` members |
+| [`hashmap`](src/hashmap) | Practice drills with `HashMap` |
+| [`codesignal`](src/codesignal) | Multi-level CodeSignal-style challenges, each with an interface and its implementation |
 
-## Structure
-
-```
-java-algorithms/
-├── src/
-│   ├── arrays/
-│   ├── oop/
-│   ├── loops/
-│   └── collections/
-└── README.md
-```
-
-## Topics Covered
-
-- [ ] Arrays
-- [ ] OOP (Classes, Constructors, Encapsulation, Inheritance, Polymorphism)
-- [ ] Loops and Control Flow
-- [ ] Collections (ArrayList, HashMap)
-- [ ] Strings
-- [ ] Exception Handling
-
-## Environment
-
-- Java SE 21
-- IntelliJ IDEA
-
-## Goal
-
-Pass the AWS SDE internship Online Assessment (OA) on HackerRank and technical interview.
+LeetCode solutions are in a separate repository: [data-structures-and-algorithms](https://github.com/arthurnorat/data-structures-and-algorithms).
