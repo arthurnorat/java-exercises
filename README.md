@@ -6,6 +6,7 @@ A collection of Java exercises I wrote while learning the language, organized by
 
 | Package | Content |
 |---|---|
+| [`basics`](src/basics) | First lessons: primitive types, operators, reading input with `Scanner`, `if`/`else` and `switch` |
 | [`fundamentals`](src/fundamentals) | Input and output with `Scanner`, operators and sequential calculations |
 | [`conditionals`](src/conditionals) | `if`/`else`, the ternary operator and classification problems |
 | [`loops`](src/loops) | `for`, `while` and `do-while` |
