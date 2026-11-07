@@ -21,6 +21,7 @@ A collection of Java exercises I wrote while learning the language, organized by
 | [`annotations`](src/annotations) | `@Override`, `@Deprecated` and `@SuppressWarnings` |
 | [`collections`](src/collections) | `List`, `Set` and `Map` |
 | [`hashmap`](src/hashmap) | Practice drills with `HashMap` |
+| [`hashset`](src/hashset) | Practice drills with `HashSet` |
 | [`codesignal`](src/codesignal) | Multi-level CodeSignal-style challenges, each with an interface and its implementation |
 
 LeetCode solutions are in a separate repository: [data-structures-and-algorithms](https://github.com/arthurnorat/data-structures-and-algorithms).
